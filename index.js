@@ -1,6 +1,5 @@
 // DOM
 const anchor = Array.from(document.getElementsByTagName('a'));
-const body = document.getElementsByTagName('body')[0];
 
 // Function
 const getTargetElement = e => {
